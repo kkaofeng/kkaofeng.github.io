@@ -1,11 +1,3 @@
-<html lang="en" dir="ltr">
-   <head>
-      <meta charset="utf-8">
-      <title>Fullscreen Overlay Navigation | CodingNepal</title>
-      <link rel="stylesheet" href="cube.css">
-      
-   </head>
-   <body>
       <input type="checkbox" id="shadows" checked /><label for="shadows">Soft shadows</label>
 <div class="cubes">
   <!--   row, column, z -->
@@ -372,6 +364,3 @@
     <div class="large-shadow" data-cube="333"></div>
   </div>
 </div>
-
-</body>
-</html>
