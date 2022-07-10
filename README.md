@@ -2,7 +2,6 @@
    <head>
       <meta charset="utf-8">
       <title>Fullscreen Overlay Navigation | CodingNepal</title>
-      <link rel="stylesheet" href="cube.css">
       
    </head>
    <body>
