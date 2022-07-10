@@ -6,7 +6,7 @@
       
    </head>
    <body>
-      <<input type="checkbox" id="shadows" checked /><label for="shadows">Soft shadows</label>
+      <input type="checkbox" id="shadows" checked /><label for="shadows">Soft shadows</label>
 <div class="cubes">
   <!--   row, column, z -->
   <div class="cube" data-cube="111">
